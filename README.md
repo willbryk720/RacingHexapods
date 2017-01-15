@@ -7,7 +7,7 @@ View CS182FinalReport.pdf for a full report of the project description, methods,
 
 # Instructions for Running Simulation
 
-This will make more sense if you read CS182FinalReport.pdf
+This will make more sense if you read CS182FinalReport.pdf first, but...
 
 First, you must download V-REP software: http://www.coppeliarobotics.com/downloads.
 html. It is a quick and easy download. Then download the files CS182FinalReport-QLearning.ttt and CS182FinalReport-Race.ttt and Hexapod-Qdata.txt. The first demonstrates a hexapod Qlearn- ing through 500 steps. The second demonstrate a race between a QLearned agent, Greedy Agent, and UCS2Generation agent. You will need to place these files in the scene folder within the VREP files. It will be called something like: V-REP-PRO-EDU-V3-3-2-Mac/scenes.
