@@ -1,7 +1,7 @@
 # RacingHexapods
-Race hexapod with Q-learning walking algorithm against one with uninformed search method of walking. Last hexapod to finish is a rotten egg!
+Race a hexapod with a Q-learning walking algorithm against one with an uninformed search method of walking.
 
-This was my project for my class, "CS182: Artificial Intelligence" taught by Professor Scott Kuindersma at Harvard.
+This was my project for the class, "CS182: Artificial Intelligence" taught by Professor Scott Kuindersma at Harvard.
 
 View CS182FinalReport.pdf for a full report of the project description, methods, and results.
 
@@ -9,7 +9,7 @@ View CS182FinalReport.pdf for a full report of the project description, methods,
 
 This will make more sense if you read CS182FinalReport.pdf first, but...
 
-First, you must download V-REP software: http://www.coppeliarobotics.com/downloads.
+To start, you must download V-REP software: http://www.coppeliarobotics.com/downloads.
 html. It is a quick and easy download. Then download the files CS182FinalReport-QLearning.ttt and CS182FinalReport-Race.ttt and Hexapod-Qdata.txt. The first demonstrates a hexapod Qlearn- ing through 500 steps. The second demonstrate a race between a QLearned agent, Greedy Agent, and UCS2Generation agent. You will need to place these files in the scene folder within the VREP files. It will be called something like: V-REP-PRO-EDU-V3-3-2-Mac/scenes.
 
 To start VREP, go to the command line and cd into V-REP-PRO-EDU-V3-3-2-Mac or your com- puter’s equivalent. Then run the command ./vrep.app/Contents/MacOS/vrep if you have a Mac, or the equivalent for the computer you have. This is if you want VREP to print variables to the command line. Otherwise you can just open the VREP application directly.
