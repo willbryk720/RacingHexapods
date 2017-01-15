@@ -1,9 +1,9 @@
 # RacingHexapods
-Racing hexapod with Q-learning walking algorithm against one with uninformed search method of walking. Last hexapod to finish is a rotten egg!
+Race hexapod with Q-learning walking algorithm against one with uninformed search method of walking. Last hexapod to finish is a rotten egg!
 
 This was my project for my class, "CS182: Artificial Intelligence" taught by Professor Scott Kuindersma at Harvard.
 
-View CS182FinalReport.pdf for a full report of the project and its methods.
+View CS182FinalReport.pdf for a full report of the project description, methods, and results.
 
 # Instructions for Running Simulation
 
